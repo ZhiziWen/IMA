@@ -1,6 +1,8 @@
 # Predicting bug 
 
-This project predict bug proneness of classes from code and NLP metrics. 
+This project predict bug proneness of classes from code and NLP metrics. The detailed explaination is provided in the file "IMA_Project_2_ZhiziWen.pdf". 
+
+Here is the short version of what I have done:
 
 •	In extract_feature_vectors.py, I extract feature vectors from java files such as number of block comments and statements, the result generated is in feature_vector_file.csv.
 
